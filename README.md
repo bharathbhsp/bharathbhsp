@@ -25,8 +25,8 @@ Welcome to my GitHub profile!
 
 ## GitHub Stats
 
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathbhsp&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bharathbhsp&layout=compact&langs_count=8&theme=default)
+![Bharath's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bharathbhsp&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=default)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bharathbhsp&layout=compact&langs_count=8&theme=default)
 
 ## Connect
 
