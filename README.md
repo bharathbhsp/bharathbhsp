@@ -4,8 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-*Vibe coding, prompt engineering, and generally exploring until it works — that's when I feel most alive.*
-
+- ✨ **Vibe coding** + **prompt engineering** — exploring and feeling alive while getting things done
 - 📍 Based in **Bengaluru, India**
 - 💻 I enjoy building and exploring open-source projects
 - 🌱 Always learning and experimenting with new tools and ideas
